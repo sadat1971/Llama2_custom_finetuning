@@ -1,1 +1,1 @@
-TBU
+The repository is created as a placeholder for the article https://medium.com/@shahriarsadat71_26111/crafting-your-own-dataset-for-fine-tuning-llama2-in-google-colab-a-step-by-step-guide-part-2-8059a063b5e0 and https://medium.com/@shahriarsadat71_26111/crafting-your-own-dataset-for-fine-tuning-llama2-in-google-colab-a-step-by-step-guide-part-1-1127002ecf0b
